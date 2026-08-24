@@ -6,7 +6,7 @@
 
 This repository is a **synthetic demonstration**, created from fictional order data. It is not a client project and contains no customer code, credentials, or private data.
 
-**Portfolio:** [All runnable demos](https://github.com/Ryan-Chen9) · [Example outputs](#example-outputs) · [See the matching Fiverr service →](https://www.fiverr.com/ryan_chen09/write-a-python-script-web-scraper-or-automation-tool-for-you)
+**Proof first:** [Inspect example outputs](#example-outputs) · [Run the demo](#run-the-json-example) · [View all demos](https://github.com/Ryan-Chen9) · **[Request a tailored Python workflow on Fiverr →](https://www.fiverr.com/ryan_chen09/write-a-python-script-web-scraper-or-automation-tool-for-you)**
 
 The demo shows a small but production-minded local workflow:
 
