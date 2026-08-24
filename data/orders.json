@@ -1,0 +1,44 @@
+{
+  "orders": [
+    {
+      "order_id": " DEMO-1001 ",
+      "customer": " Northwind Sample ",
+      "product": "Desk Lamp",
+      "quantity": "2",
+      "unit_price": "24.50",
+      "status": " PAID ",
+      "order_date": "2026-08-01",
+      "country": "us"
+    },
+    {
+      "order_id": "DEMO-1002",
+      "customer": "Contoso Demo",
+      "product": "Cable Organizer",
+      "quantity": 3,
+      "unit_price": 8.75,
+      "status": "shipped",
+      "order_date": "2026-08-02",
+      "country": "CA"
+    },
+    {
+      "order_id": "DEMO-1003",
+      "customer": "Fabrikam Example",
+      "product": "Monitor Stand",
+      "quantity": 1,
+      "unit_price": "79.90",
+      "status": "completed",
+      "order_date": "2026-08-03",
+      "country": "gb"
+    },
+    {
+      "order_id": "DEMO-1004",
+      "customer": "Adventure Sample",
+      "product": "Keyboard Mat",
+      "quantity": 0,
+      "unit_price": "19.00",
+      "status": "pending",
+      "order_date": "2026-08-04",
+      "country": "AU"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "accepted_statuses": [
+    "pending",
+    "paid",
+    "shipped",
+    "completed",
+    "refunded",
+    "cancelled"
+  ],
+  "revenue_statuses": [
+    "paid",
+    "shipped",
+    "completed"
+  ],
+  "currency": "USD",
+  "duplicate_policy": "keep_last",
+  "max_read_attempts": 3,
+  "retry_delay_seconds": 0.05
+}
