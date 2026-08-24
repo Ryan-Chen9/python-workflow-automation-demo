@@ -1,0 +1,39 @@
+{
+  "by_country": {
+    "CA": {
+      "gross_value": "26.25",
+      "order_count": 1
+    },
+    "GB": {
+      "gross_value": "79.90",
+      "order_count": 1
+    },
+    "US": {
+      "gross_value": "49.00",
+      "order_count": 1
+    }
+  },
+  "by_status": {
+    "completed": {
+      "gross_value": "79.90",
+      "order_count": 1
+    },
+    "paid": {
+      "gross_value": "49.00",
+      "order_count": 1
+    },
+    "shipped": {
+      "gross_value": "26.25",
+      "order_count": 1
+    }
+  },
+  "currency": "USD",
+  "gross_value": "155.15",
+  "order_count": 3,
+  "recognized_revenue": "155.15",
+  "revenue_statuses": [
+    "completed",
+    "paid",
+    "shipped"
+  ]
+}

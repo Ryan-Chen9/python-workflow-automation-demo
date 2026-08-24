@@ -1,0 +1,39 @@
+{
+  "by_country": {
+    "CH": {
+      "gross_value": "17.50",
+      "order_count": 1
+    },
+    "DE": {
+      "gross_value": "34.50",
+      "order_count": 1
+    },
+    "FR": {
+      "gross_value": "34.99",
+      "order_count": 1
+    }
+  },
+  "by_status": {
+    "paid": {
+      "gross_value": "34.50",
+      "order_count": 1
+    },
+    "refunded": {
+      "gross_value": "17.50",
+      "order_count": 1
+    },
+    "shipped": {
+      "gross_value": "34.99",
+      "order_count": 1
+    }
+  },
+  "currency": "USD",
+  "gross_value": "86.99",
+  "order_count": 3,
+  "recognized_revenue": "69.49",
+  "revenue_statuses": [
+    "completed",
+    "paid",
+    "shipped"
+  ]
+}

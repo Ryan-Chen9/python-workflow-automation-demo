@@ -1,8 +1,12 @@
-# Python Workflow Automation Demo
+# Python CSV/JSON Workflow Automation — Validation, Logging & Reports
 
-![Python workflow automation demo](assets/hero.png)
+[![CI](https://github.com/Ryan-Chen9/python-workflow-automation-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Ryan-Chen9/python-workflow-automation-demo/actions/workflows/ci.yml)
+
+![Python CSV and JSON workflow automation demo](assets/hero-v2.png)
 
 This repository is a **synthetic demonstration**, created from fictional order data. It is not a client project and contains no customer code, credentials, or private data.
+
+**Portfolio:** [All runnable demos](https://github.com/Ryan-Chen9) · [Example outputs](#example-outputs) · [See the matching Fiverr service →](https://www.fiverr.com/ryan_chen09/write-a-python-script-web-scraper-or-automation-tool-for-you)
 
 The demo shows a small but production-minded local workflow:
 
@@ -22,6 +26,20 @@ Running the demo creates:
 - `summary.json` — order and revenue totals by status and country
 - `rejected_orders.json` — invalid rows and their validation errors
 - `workflow.log` — processing, retry, duplicate, and output events
+
+Committed sample artifacts:
+
+- [JSON-input cleaned CSV](sample_output/json-demo/cleaned_orders.csv)
+- [JSON-input summary](sample_output/json-demo/summary.json)
+- [CSV-input cleaned CSV](sample_output/csv-demo/cleaned_orders.csv)
+- [CSV-input summary](sample_output/csv-demo/summary.json)
+
+## Verified sample result
+
+| Input | Raw | Cleaned | Rejected | Recognized revenue |
+| --- | ---: | ---: | ---: | ---: |
+| JSON | 4 | 3 | 1 | USD 155.15 |
+| CSV | 4 | 3 | 1 | USD 69.49 |
 
 ## Requirements
 

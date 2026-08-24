@@ -1,0 +1,4 @@
+order_id,customer,product,quantity,unit_price,currency,status,order_date,country,line_total
+DEMO-1001,Northwind Sample,Desk Lamp,2,24.50,USD,paid,2026-08-01,US,49.00
+DEMO-1002,Contoso Demo,Cable Organizer,3,8.75,USD,shipped,2026-08-02,CA,26.25
+DEMO-1003,Fabrikam Example,Monitor Stand,1,79.90,USD,completed,2026-08-03,GB,79.90

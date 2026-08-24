@@ -1,0 +1,4 @@
+order_id,customer,product,quantity,unit_price,currency,status,order_date,country,line_total
+CSV-2001,Alpine Demo,USB Hub,2,17.25,USD,paid,2026-08-05,DE,34.50
+CSV-2002,Blue Yonder Sample,Laptop Sleeve,1,34.99,USD,shipped,2026-08-06,FR,34.99
+CSV-2003,Lucerne Example,Webcam Cover,5,3.50,USD,refunded,2026-08-07,CH,17.50
